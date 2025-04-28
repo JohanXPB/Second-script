@@ -1,0 +1,16 @@
+The Python script requires the following packages: 
+
+pandas 
+os
+openpyxl
+
+Furthermore the Python script requires to import the following:
+
+StringIO
+sys
+
+    
+
+
+
+
